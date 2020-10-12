@@ -26,7 +26,7 @@ github_username:  tarkowski
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -49,5 +49,3 @@ include: ["_pages"]
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-minimal
