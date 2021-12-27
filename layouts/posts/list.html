@@ -1,0 +1,10 @@
+{{ define "main" }}
+<h2>{{ .Title }}</h2>
+
+More posts coming soon! 
+
+{{ range .Pages }}
+{{ partial "post_summary.html" . }}
+{{ end }}
+
+{{ end }}

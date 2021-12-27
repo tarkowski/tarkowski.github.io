@@ -1,0 +1,21 @@
+baseURL = "http://alektarkowski.pl"
+languageCode = "en-us"
+title = "Alek and the New Open"
+theme = "hugo-bearblog"
+relativeurls = true
+
+[params]
+author = "Alek Tarkowski"
+description = "This is my homepage on the IndieWeb"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    

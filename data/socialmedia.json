@@ -1,0 +1,12 @@
+{ "accounts" :
+  [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/atarkowski"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/atarkowski"
+    }
+  ]
+}
