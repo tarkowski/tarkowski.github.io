@@ -1,11 +1,12 @@
 ---
 title: "Platforms are eating CC licenses"
-date: 2021-12-25
+date: 2020-03-26
 draft: false
 author: Alek Tarkowski
 summary: "On the value proposition of Creative Commons in the first decade of platform economy."
 tags:
-- indieweb
+- creativecommons
+- platforms
 ---
 # Platforms are eating CC licenses
 
