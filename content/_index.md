@@ -4,4 +4,4 @@
 
 ## I work at the [Open Future Foundation](http://openfuture.eu), the think tank for an open movement. 
 
-## This is my homepage on the [indieweb](https://indieweb.org/).
+## This is my homepage on the [indieweb](http://alektarkowski.pl/posts/my-home-on-the-indieweb/).
