@@ -1,5 +1,4 @@
 baseURL = "https://tarkowski.github.io/"
-publishDir = "docs"
 languageCode = "en-us"
 title = "Alek and the New Open"
 theme = "hugo-bearblog"
