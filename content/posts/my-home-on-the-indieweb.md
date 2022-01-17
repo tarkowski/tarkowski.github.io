@@ -17,7 +17,7 @@ This clearly struck a note. I summarized the article, and then added: "  We can 
 
 Reading this today, I'm surprised how close my thoughts were back then to what I find interesting and important today. And how very [Indieweb](https://indieweb.org/) it was, although I did not know the term at that time. 
 
-* * *
+✦
 
 That page was close to what feels to me like a golden standard of IndieWeb setups, largely thanks to an electronic engineering student that lived in the same apartment building as I did. Without him, I would not have my own instance of Movable Type blogging software, installed on a server that I owned. 
 
@@ -29,13 +29,19 @@ Several years later, things started falling apart, unfortunately. The student mo
 
 I decided to close the site, hoping to one day "clean up that dusty attic and pack the data into little boxes". (That hasn't yet happened, in twenty years). It took me several years more to physically access the server and download the data. Today, the site is a folder on one of my external backup disks.  
 
-* * * 
+✦
 
-I wish I was one of these people that started blogging in early 00s and went at it for a few decades straight. I am not. In 2006, as I closed "Terminal internetyki", I started writing for a collective blog called "Kultura 2.0", published by a Polish weekly magazine called "Polityka". That no longer was the IndieWeb, but was a pretty good setup for that time - one that also feels today slightly retro. 
+I wish I was one of these people that started blogging in early 00s and then went at it, dilligently, for a few decades straight. I am not. 
 
-I've been meaning to build a homepage on the IndieWeb for a few years now. And for a long time, this task was elusive, for reasons that I don't fully comprehend. It is as if the weight of the modern internet, so biased against such an "indie" approach, exerted pressure on me. 
+In 2006, as I closed "Terminal internetyki", I started writing for a collective blog called "Kultura 2.0", published by the Polish weekly "Polityka". That no longer was the IndieWeb, but was a pretty good setup for that time. And one that, right now, is feeling increasingly dated. Blogging still feels right, but somehow mis-structured for the modern internet. 
 
-I knew all the time that I will not have an ideal IndieWeb setup. I was not planning to install a server on a rack that probably was still standing, gathering dust, in the basement. I was willing to cut some corners, but knew that I want to write the page myself, to some extent. And my problem is that I forget programming languages even faster than natural ones - of which I have been learning multiple ones for years, with little left in the end beyond gaping holes in my memory. 
+I've been meaning to build a homepage on the IndieWeb for a few years now. And for a long time, this task was elusive. I did face some technical challenges, but a basic Hugo + Github Pages setup is not that hard, with all the available tutorials. It is rather as if the weight of the modern internet, so biased against such an "indie" approach, exerted pressure on me. 
 
-What you are reading now is built using the [Hugo static site generator](https://gohugo.io/) and a simple theme called [Hugo ʕ•ᴥ•ʔ Bear Blog](https://github.com/janraasch/hugo-bearblog/). It lacks bells and whistles, which lets me understand what goes on in the sites code - which feels to me like a good IndieWeb standard. 
+And I knew all this time that I will not have the ideal IndieWeb setup. I was not planning to install my own server on the rack that probably is still standing there, gathering dust, in the basement. I have been willing to cut some corners, but at the same time knew, that I went to have the sense that I wrote the page myself, at least to some extent. 
+
+✦
+
+And here we are, finally. 
+
+What you are reading now is built using the [Hugo static site generator](https://gohugo.io/) and a simple theme called [Hugo ʕ•ᴥ•ʔ Bear Blog](https://github.com/janraasch/hugo-bearblog/). I use [Github Pages](https://pages.github.com) to publish the site. It lacks bells and whistles, which lets me understand what goes on in the site's code - which feels to me like a good IndieWeb standard. 
 
