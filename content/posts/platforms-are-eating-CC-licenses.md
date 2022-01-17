@@ -1,5 +1,5 @@
 ---
-title: "Platforms are eating CC licenses"
+title: "Platforms are eating CC licenses"
 date: 2020-03-26
 draft: false
 author: Alek Tarkowski
@@ -8,7 +8,7 @@ tags:
 - creativecommons
 - platforms
 ---
-# Platforms are eating CC licenses
+# Platforms are eating CC licenses
 
 *This text was originally published on [Medium](https://medium.com/@atarkowski/platforms-are-eating-cc-licenses-6b18191500af).*
 
@@ -22,7 +22,7 @@ Those are the questions that we asked ourselves at a recent Centrum Cyfrowe team
 
 *Illustration: Joanna Tarkowska*
 
-# Signaling and building value in the open
+# Signaling and building value in the open
 
 Creative Commons licensing fulfills, broadly speaking, two possible functions. A pragmatic function of providing added value to users and creators, by enabling broader and more intensive use and reuse of valuable content. And, secondly, a political function of signaling the need for a more flexible copyright system and support for necessary change in this direction.
 
@@ -40,7 +40,7 @@ But in practice - the same as with many other types of cultural content -�
 
 But even in case of the millions of CC licensed works, there is little proof that the licensing provides added value - which would need to stem from content reuse. As access rights are in principle ensured by the platform and the relatively open functionalities coded into it.
 
-# The tragedy of licensing in walled gardens
+# The tragedy of licensing in walled gardens
 
 Thus user rights are being managed by a technical - not a legal - system. Youtube's machinery is the enabling - even if at times faulty - mechanism. This means that some of the uses made possible by legal mechanisms (fair use provisions / exceptions or free licensing) are not made possible by Youtube's code. And in turn, some uses enabled by content ID might fall beyond what the legal system would consider within the scope of quotation right (or some other exception to copyright).
 
@@ -51,7 +51,7 @@ More generally, free licensing is not well suited for enabling creativity to use
 Secondly, social media create ecosystems where everything is meant to take place only within the coded communication space of a given online service. The boundaries of these spaces are strongly guarded, as demonstrated by Instagram's curbing of hyperlinks or Facebook's warnings displayed upon leaving its webpage, while following a hyperlink. Yet within these boundaries, platforms at the same time support high levels of creativity and aim to have monopoly on defining rules that their content ecosystems follow.
 It is time to acknowledge that these ecosystems might make CC licenses no longer fit for fulfilling their purpose.
 
-# Remixing without the right to remix
+# Remixing without the right to remix
 
 While copying of content is either limited or made impossible in these ecosystems, remixing is strongly supported. Not because of its intrinsic cultural value, but because it generates uploads, views and clicks, and ad revenue.
 
