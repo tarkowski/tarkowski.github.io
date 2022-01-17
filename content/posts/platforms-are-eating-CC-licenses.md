@@ -20,7 +20,7 @@ Those are the questions that we asked ourselves at a recent Centrum Cyfrowe team
 
 ![Platforms are eating CC licenses](/static/images/platforms-are-eating-cc-licenses.png)
 
-*Illustration: Joanna Tarkowska*
+*Illustration: Joanna Tarkowska.*
 
 # Signaling and building value in the open
 
