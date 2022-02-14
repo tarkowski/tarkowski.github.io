@@ -1,5 +1,5 @@
 ---
-title: "My home on the Indiweb"
+title: "My home on the Indieweb"
 date: 2021-12-25
 draft: false
 author: Alek Tarkowski
@@ -7,13 +7,13 @@ summary: "I've built my first homepage on the Indieweb in 2002. Twenty years lat
 tags:
 - indieweb
 ---
-# My home on the Indieweb
-
 In 2002–twenty years ago–I created my first blog, called "Terminal internetyki", the internetics terminal. "The terminal has the goal of monitoring and sociologically analysing changes caused by the development of new media", said the "About" page. "We are working on launching the Polish branch of the Creative Commons project, I added on the margin. 
 
 The first post linked to a [New York Times article about Joseph Turow](https://www.nytimes.com/2002/12/29/weekinreview/the-nation-case-sensitive-crusader-who-owns-the-internet-you-and-i-do.html), a researcher who decided to stop capitalizing the word "Internet". Turow argued that the internet was not a "brand-name experience", but a "part of the everyday universe". The text also mentions Robert Kahn, one of internet's co-creators, who was at that time defending "the right of people to use the word 'Internet' for what we think of as the Internet", against some trademarking attempt by an IPR maximalist company. 
 
-This clearly struck a note. I summarized the article, and then added: "  We can speak about the Internet, the internet or even the internets. Alongside the one medium, a great and common telecommunications spidernet, there are after all private mental spaces, internets belonging to each of us, the users of the internet". 
+This clearly struck a note. I summarized the article, and then added: "We can speak about the Internet, the internet or even the internets. Alongside the one medium, a great and common telecommunications spidernet, there are, after all, private mental spaces, internets belonging to each of us, the users of the internet". 
+
+![A quote](/images/my-home-on-the-indieweb/quote.png 'A quote')
 
 Reading this today, I'm surprised how close my thoughts were back then to what I find interesting and important today. And how very [Indieweb](https://indieweb.org/) it was, although I did not know the term at that time. 
 
