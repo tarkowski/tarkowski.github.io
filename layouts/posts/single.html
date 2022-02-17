@@ -2,18 +2,12 @@
 <article class="post">
 	<header>
 		<h2>{{ .Title }}</h2>
-		<p>
-		Author: {{ .Params.Author }}
-		</p>
+
 		<p>
 		Posted {{ .Date.Format "2 January, 2006" }} in {{ range .Params.tags }} <a class="tag" href="/tags/{{ .| urlize }}">{{ . }}</a>
 		{{ end }}
 		</span>
-		</p>
-		<p>
-		Reading time: {{ math.Round (div (countwords .Content) 200.0) }} minutes.
-		</p>
-		
+		</p>		
 			
 	</header>
 		

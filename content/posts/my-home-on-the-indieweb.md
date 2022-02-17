@@ -43,5 +43,5 @@ And I knew all this time that I will not have the ideal IndieWeb setup. I was no
 
 And here we are, finally. 
 
-What you are reading now is built using the [Hugo static site generator](https://gohugo.io/) and a simple theme called [Hugo ʕ•ᴥ•ʔ Bear Blog](https://github.com/janraasch/hugo-bearblog/). I use [Github Pages](https://pages.github.com) to publish the site. It lacks bells and whistles, which lets me understand what goes on in the site's code - which feels to me like a good IndieWeb standard. 
+What you are reading now is built using the [Hugo static site generator](https://gohugo.io/) and a simple theme called [Hugo ʕ•ᴥ•ʔ Bear Blog](https://github.com/janraasch/hugo-bearblog/). I use [Github Pages](https://pages.github.com) to publish the site. It lacks bells and whistles, and this allows me to - sort of - understand what goes on in the site's code - which feels to me like a good IndieWeb standard. 
 
