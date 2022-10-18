@@ -7,7 +7,7 @@ draft: false
 
 ## About me
 
-![Alek](/images/5620.jpg 'Alek2')
+![Alek](/images/about/alek.jpg 'Alek')
 
 Hi, I'm Alek. I am a sociologist, strategist and digital activist.
 
