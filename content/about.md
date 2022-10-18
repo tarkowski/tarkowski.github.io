@@ -7,6 +7,8 @@ draft: false
 
 ## About me
 
+![Alek](/images/5620.jpg 'Alek2')
+
 Hi, I'm Alek. I am a sociologist, strategist and digital activist.
 
 I am the Strategy Director of Open Future Foundation, which I co-founded with Paul Keller in 2020. Our foundation is a think tank for the open movement.
@@ -29,7 +31,7 @@ In 2010, I co-founded Centrum Cyfrowe, digital think-and-do-tank based in Warsaw
 
 At about the same time, I became more involved in Communia, the European association for the digital Public Domain. THrough Communia, I learned how to do advocacy at European level. And with other Communia members we became veterans of copyright reform work, during the five-year legislative process on the European Copyright Directive. 
 
-In 2020, I left Centrum Cyfrowe and co-founded–with Paul Keller–Open Future. 
+In 2020, I left Centrum Cyfrowe and co-founded – with [Paul Keller](https://publicspace.online) – [Open Future](http://openfuture.eu). 
 
 It is almost two decades since I started exploring how digital technologies can be used to the public benefit, in particular through policies and actions rooted in the principle of openness. These experiences fuel my continuing interest in openness, digital commons, public goods and the public domain. At the same time, I feel it is high time to reimagine openness anew. 
 
