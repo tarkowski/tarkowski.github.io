@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Alek and the New Open</title>
-    <link>https://tarkowski.github.io/posts/</link>
-    <description>Recent content in Posts on Alek and the New Open</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tarkowski.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A sudden expansion of scale</title>
-      <link>https://tarkowski.github.io/posts/a-sudden-expansion-of-scale/</link>
-      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://tarkowski.github.io/posts/a-sudden-expansion-of-scale/</guid>
-      <description>Copyright offered a great lens for digital activism. And then the necessary viewpoints multiplied, and the perspective expanded.</description>
-    </item>
-    
-    <item>
-      <title>My home on the Indieweb</title>
-      <link>https://tarkowski.github.io/posts/my-home-on-the-indieweb/</link>
-      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://tarkowski.github.io/posts/my-home-on-the-indieweb/</guid>
-      <description>I&amp;rsquo;ve built my first homepage on the Indieweb in 2002. Twenty years later, I&amp;rsquo;ve built another iteration of it.</description>
-    </item>
-    
-    <item>
-      <title>Platforms are eating CC licenses</title>
-      <link>https://tarkowski.github.io/posts/platforms-are-eating-cc-licenses/</link>
-      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tarkowski.github.io/posts/platforms-are-eating-cc-licenses/</guid>
-      <description>On the value proposition of Creative Commons in the first decade of platform economy.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Posts on Alek and the New Open</title>
+		<link>https://tarkowski.github.io/posts/</link>
+		<description>Recent content in Posts on Alek and the New Open</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 09 Jul 2022 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://tarkowski.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A sudden expansion of scale</title>
+				<link>https://tarkowski.github.io/posts/a-sudden-expansion-of-scale/</link>
+				<pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+				<guid>https://tarkowski.github.io/posts/a-sudden-expansion-of-scale/</guid>
+				<description>Copyright offered a great lens for digital activism. And then the necessary viewpoints multiplied, and the perspective expanded.</description>
+			</item>
+			<item>
+				<title>My home on the Indieweb</title>
+				<link>https://tarkowski.github.io/posts/my-home-on-the-indieweb/</link>
+				<pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+				<guid>https://tarkowski.github.io/posts/my-home-on-the-indieweb/</guid>
+				<description>I&amp;rsquo;ve built my first homepage on the Indieweb in 2002. Twenty years later, I&amp;rsquo;ve built another iteration of it.</description>
+			</item>
+			<item>
+				<title>Platforms are eating CC licenses</title>
+				<link>https://tarkowski.github.io/posts/platforms-are-eating-cc-licenses/</link>
+				<pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+				<guid>https://tarkowski.github.io/posts/platforms-are-eating-cc-licenses/</guid>
+				<description>On the value proposition of Creative Commons in the first decade of platform economy.</description>
+			</item>
+	</channel>
 </rss>

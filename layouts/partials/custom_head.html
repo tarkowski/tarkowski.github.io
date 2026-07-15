@@ -11,7 +11,47 @@ h2 {
 }
 
 body {
-  font-family: "Karla", sans-serif; 
+  font-family: "Karla", sans-serif;
+  background-color: #f6f3ef;
+}
+
+a {
+  color: #b5502f;
+}
+
+a:visited {
+  color: #8a6a52;
+}
+
+main hr + p {
+  font-size: 0.85em;
+  color: #666;
+}
+
+img {
+  border-radius: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #2b2a28;
+  }
+
+  a {
+    color: #e8916b;
+  }
+
+  a:visited {
+    color: #c9a68c;
+  }
+
+  main hr + p {
+    color: #aaa;
+  }
+
+  img {
+    border: 1px solid #555;
+  }
 }
 
 </style>
